@@ -1,0 +1,95 @@
+*{
+    text-decoration: none;
+}
+.register,.index0{
+    background-image: url(backgroundcss.jpg) ;
+    background-size: cover;
+    background-position: c;
+}
+
+
+
+.img{
+    margin-top: 10px;
+    margin-left: 600px;
+  
+}
+.login{
+    margin: 600px;
+    margin-top: -10px;
+    padding: 15px;
+    background-color:lightblue;
+     border-color: lightgreen;
+      border-style: ridge;
+    width: auto;
+    border-width: 3px;
+    color: white;
+    display: table;
+    
+}
+.Enter{
+    width: 100px;
+    border-radius: 3px;
+    height: 40px;
+    margin-left: 700;
+    color: white;
+    background-color: yellowgreen;
+}
+.Enter:hover{
+   background-color: blue;
+
+}
+.newaccount{
+    width: 200px;
+    border-radius: 3px;
+    height: 40px;
+    margin-left: 700;
+    margin-top: -50px;
+    background-color: yellowgreen;
+}
+.newaccount a{
+    color: white;
+}
+.newaccount:hover{
+   background-color: blue;
+}
+.row{
+    display: table-row;
+}
+
+#theform{
+    color: white;
+    display: table;
+    padding: 15px;
+    background-color:lightblue;
+    border-color: lightgreen;
+     border-style: ridge;
+   width: auto;
+   border-width: 3px;
+   color: white; 
+}
+
+.form{
+    display:table-row;
+}
+.main{
+    margin-top: 30px;
+    margin-left: 590px;
+  
+}
+
+.home{
+    margin-top: -580px;
+    margin-right: 1200px;
+    float: right;
+    color: white;
+    display: table;
+    padding: 15px;
+    background-color:lightblue;
+    border-color: lightgreen;
+     border-style: ridge;
+   width: auto;
+   border-width: 3px;
+   color: white; 
+}
+
