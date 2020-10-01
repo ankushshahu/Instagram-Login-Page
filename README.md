@@ -1,2 +1,2 @@
 # Instagram-Login-Page
-This is My First Work ON Instagram Login Page  OR  Create Account. Using HTML5 & CSS3.
+This is my first work with HTML5 and CSS3 for creat an "Instagram login page and Create Account page" clone.
